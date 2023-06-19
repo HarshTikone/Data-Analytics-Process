@@ -1,4 +1,6 @@
 # Data-Analytics-Process
+Application in Real Life Scenario Case Study / PPT
+
 We use Data Analytics in everyday life without even knowing it. For eg : Going to a market to buy something .
 
 Data Analytics Process
